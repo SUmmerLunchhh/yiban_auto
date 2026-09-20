@@ -25,8 +25,8 @@ pip install requests selenium webdriver-manager
 ```
 ### 2. 克隆仓库到本地
 ```bash
-git clone https://github.com/SUmmerLunchhh/yiban_auto_exam_selenium.git
-cd yiban_auto_exam_selenium
+git clone https://github.com/SUmmerLunchhh/yiban_auto.git
+cd yiban_auto
 ```
 ### 3.将你自己的任意AI APIkey 输入yiban_auto_exam_selenium.py文件中对应替换部分，
 打开网页端考试界面，将网址输入对应替换部分。（代码中【】部分）
